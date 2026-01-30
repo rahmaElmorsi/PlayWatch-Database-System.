@@ -6,8 +6,6 @@ This project is a complete SQL Database for a Video-on-Demand platform, managing
 
 ## 🛠️ Features
 ## 🛠️ Tech Stack
-![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=microsoft-sql-server)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)
 - User & Multi-profile management.
 - Detailed Content tracking (Movies & Series).
 - Watch history & completion percentage.
