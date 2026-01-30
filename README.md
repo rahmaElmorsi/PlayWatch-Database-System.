@@ -2,7 +2,7 @@
 This project is a complete SQL Database for a Video-on-Demand platform, managing users, content, and watch history.
 
 ## 📊 Entity Relationship Diagram (ERD)
-![Database Schema](./ERD.png)
+![Database Schema](./ERD.jpeg)
 
 ## 🛠️ Features
 - User & Multi-profile management.
